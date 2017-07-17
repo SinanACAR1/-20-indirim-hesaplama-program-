@@ -1,0 +1,22 @@
+C:\Users\arcelik\documents\visual studio 2010\Projects\checkbox kullanımı 20 indirim ölçme\checkbox kullanımı 20 indirim ölçme\bin\Debug\checkbox kullanımı 20 indirim ölçme.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\checkbox kullanımı 20 indirim ölçme\checkbox kullanımı 20 indirim ölçme\bin\Debug\checkbox kullanımı 20 indirim ölçme.pdb
+C:\Users\arcelik\documents\visual studio 2010\Projects\checkbox kullanımı 20 indirim ölçme\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\checkbox kullanımı 20 indirim ölçme\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\arcelik\documents\visual studio 2010\Projects\checkbox kullanımı 20 indirim ölçme\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.csproj.GenerateResource.Cache
+C:\Users\arcelik\documents\visual studio 2010\Projects\checkbox kullanımı 20 indirim ölçme\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.exe
+C:\Users\arcelik\documents\visual studio 2010\Projects\checkbox kullanımı 20 indirim ölçme\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.pdb
+G:\Programlar\Düzelt bunu !!\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.exe
+G:\Programlar\Düzelt bunu !!\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.pdb
+G:\Programlar\Düzelt bunu !!\checkbox kullanımı 20 indirim ölçme\bin\Debug\checkbox kullanımı 20 indirim ölçme.exe
+G:\Programlar\Düzelt bunu !!\checkbox kullanımı 20 indirim ölçme\bin\Debug\checkbox kullanımı 20 indirim ölçme.pdb
+G:\Programlar\Düzelt bunu !!\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+G:\Programlar\Düzelt bunu !!\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+G:\Programlar\Düzelt bunu !!\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\bin\Debug\checkbox kullanımı 20 indirim ölçme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\bin\Debug\checkbox kullanımı 20 indirim ölçme.pdb
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.csprojResolveAssemblyReference.cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.csproj.GenerateResource.Cache
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.exe
+F:\Sinan Güvenli Klasor\sinan acar\Programlar\%20 indirim hesaplama\checkbox kullanımı 20 indirim ölçme\obj\x86\Debug\checkbox kullanımı 20 indirim ölçme.pdb
